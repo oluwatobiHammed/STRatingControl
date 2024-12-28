@@ -78,6 +78,7 @@
 		E41203BE465F46324358D9AE1E4C5162 /* Pods-STRatingControl_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-STRatingControl_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		E55E0DAB4A2741AFBA53B5A13BC52BC0 /* Pods-STRatingControl_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-STRatingControl_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		EBFF83CE8C008A3530B47C12F73EF84C /* STRatingControl.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = STRatingControl.swift; sourceTree = "<group>"; };
+		F1B224BA2D1F8E800051905D /* Package.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
 		F5BEF9C3562066E67C0BD4935152829C /* Pods-STRatingControl_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-STRatingControl_Tests-umbrella.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -197,6 +198,7 @@
 		7DB346D0F39D3F0E887471402A8071AB = {
 			isa = PBXGroup;
 			children = (
+				F1B224BA2D1F8E800051905D /* Package.swift */,
 				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
 				1FF2942EA5383CF11C5EF80F8082E2F0 /* Development Pods */,
 				BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */,
@@ -375,6 +377,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
